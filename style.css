@@ -1,0 +1,38 @@
+
+.center {
+    border: 1px solid black;
+    background-color: black;
+    position: fixed;
+    top: 25%;
+    height: 300px;
+    width: 100%;
+ }
+
+
+img {
+    border: 8px solid white;
+    height: 250px;
+    width: 400px;
+   position: relative;
+   left: 500px;
+}
+.vorname {
+    border-radius: 20px;
+    border: rgb(90, 231, 90) solid 4px;
+    background-color: white;
+    width: 80px;
+    height: 28px;
+    position: absolute;
+    left: 900px;
+    padding-top: 6px;
+ }
+#vorname {
+    top: 40px;
+    text-align: center;
+    
+}
+#nachname {
+    top: 90px;
+    text-align: center;
+    
+}
